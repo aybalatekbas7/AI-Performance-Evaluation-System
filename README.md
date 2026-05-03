@@ -1,6 +1,6 @@
 # Yapay Zeka Destekli Personel Performans Değerlendirme Sistemi 🚀
 
-Bu proje, Yönetim Bilişim Sistemleri (YBS) süreçlerindeki performans değerlendirme adımlarını otomatize etmek amacıyla geliştirilmiş kodsuz (no-code) bir sistem mimarisidir.
+Bu proje, Veri Tabanı Yönetim Sistemleri süreçlerindeki performans değerlendirme adımlarını otomatize etmek amacıyla geliştirilmiş kodsuz (no-code) bir sistem mimarisidir.
 
 ## 🛠️ Kullanılan Teknolojiler
 * **Notion:** İlişkisel Veritabanı Yönetimi (RDBMS)
